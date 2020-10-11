@@ -1,5 +1,7 @@
-LISTA DE TAREAS
-Este proyecto permite crear una lista diaria de tareas 
+#LISTA DE TAREAS
+
+Este proyecto permite crear una lista diaria de tareas
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
