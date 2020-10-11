@@ -1,4 +1,4 @@
-#LISTA DE TAREAS
+## LISTA DE TAREAS
 
 Este proyecto permite crear una lista diaria de tareas
 
